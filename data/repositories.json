@@ -1,0 +1,68 @@
+{
+  "repo1": {
+    "collaborators": [
+      "u1",
+      "u2",
+      "u3",
+      "user1",
+      "user2"
+    ]
+  },
+  "repo2": {
+    "collaborators": [
+      "user2",
+      "user3"
+    ]
+  },
+  "repo3": {
+    "collaborators": [
+      "user3",
+      "user2"
+    ]
+  },
+  "repo4": {
+    "collaborators": [
+      "user3",
+      "user4",
+      "user5"
+    ]
+  },
+  "repo5": {
+    "collaborators": [
+      "user4",
+      "user5"
+    ]
+  },
+  "repo6": {
+    "collaborators": [
+      "user5",
+      "user6",
+      "user2"
+    ]
+  },
+  "repo7": {
+    "collaborators": [
+      "user6",
+      "user9",
+      "user100",
+      "user101",
+      "user200",
+      "user201",
+      "user202",
+      "user7"
+    ]
+  },
+  "repo8": {
+    "collaborators": [
+      "user7",
+      "user8"
+    ]
+  },
+  "repo9": {
+    "collaborators": [
+      "user99",
+      "user4",
+      "user100"
+    ]
+  }
+}
